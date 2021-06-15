@@ -14,13 +14,13 @@ pyramids. The comparitive the results of image layer segmentation for both the i
 
 <h4>for</h4>
 
-<h3>SEGMENTATION OF TWO DIFFERENT LAYERS OF GAUSSIAN PYRAMID</h3>
+<h3>SEGMENTATION OF DIFFERENT LAYERS OF GAUSSIAN PYRAMID USING GLOBAL AND ADAPTIVE THRESHOLDING</h3>
 
-<img src="images/Output_img1.png" height = "225">
+<img src="images/Gauss1.png" height = "225">
 
 <br>
 
-<h3>SEGMENTATION OF TWO DIFFERENT LAYERS OF LAPLACIAN PYRAMID</h3>
+<h3>SEGMENTATION OF DIFFERENT LAYERS OF LAPLACIAN PYRAMID USING GLOBAL AND ADAPTIVE THRESHOLDING</h3>
 
 <img src="images/Output_img1.png" height = "225">
 
