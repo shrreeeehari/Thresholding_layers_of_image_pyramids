@@ -6,7 +6,7 @@ pyramids. The comparitive the results of image layer segmentation for both the i
 <br>
 <h2>INPUT IMAGE</h2>
 
-<img src="images/boy.bmp" height = "225">
+<img src="images/Input.png" height = "225">
 
 <br>
 
