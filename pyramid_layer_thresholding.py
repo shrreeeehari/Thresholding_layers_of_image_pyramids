@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-img = cv2.imread('C:/Users/shrih/OneDrive/Pictures/test1/image.orig/36.jpg')
+img = cv2.imread('image_path')
 level = img.copy()
 gp_list = [level]
 
