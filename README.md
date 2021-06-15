@@ -3,3 +3,25 @@
 Constructing Gaussian pyramid and Laplacian pyramid of an image and applying global and adaptive thresholding techniques to perform segmentation at different levels of both image
 pyramids. The comparitive the results of image layer segmentation for both the image pyramids is as follows.
 
+<br>
+<h2>INPUT IMAGE</h2>
+
+<img src="images/boy.bmp" height = "225">
+
+<br>
+
+<h2>OUTPUT IMAGES</h2>
+
+<h4>for</h4>
+
+<h3>SEGMENTATION OF TWO DIFFERENT LAYERS OF GAUSSIAN PYRAMID</h3>
+
+<img src="images/Output_img1.png" height = "225">
+
+<br>
+
+<h3>SEGMENTATION OF TWO DIFFERENT LAYERS OF LAPLACIAN PYRAMID</h3>
+
+<img src="images/Output_img1.png" height = "225">
+
+
